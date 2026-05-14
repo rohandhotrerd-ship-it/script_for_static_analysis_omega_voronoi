@@ -1,0 +1,1 @@
+# script_for_static_analysis_omega_voronoi
